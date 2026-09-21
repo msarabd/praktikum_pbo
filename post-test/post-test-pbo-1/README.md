@@ -1,4 +1,3 @@
-
 # ⚽ CLI Penalty Simulator
 
 Halo bang-abang! Selamat datang di repo kodingan **CLI Penalty Simulator**. Intinya, ini program simulasi adu penalti sederhana yang dibikin pakai Python. Program ini dibuat pakai pendekatan *Object-Oriented Programming* (OOP), jadi udah *include* materi Class & Object, Attribute & Method, sampai Encapsulation & Property.
@@ -29,7 +28,7 @@ Class ini fungsinya buat nyetak objek kiper yang akan menepis bola.
 
 Class ini yang mengatur *flow* pertandingannya.
 
-* **Atribut Class:** `__jumlahMatch` (ngitung total match yang udah jalan).
+* **Atribut Class:** `__jumlahMatch` (menghitung total match yang udah jalan).
 * **Atribut Instance:** `__skorA`, `__skorB`, dan `__jumlahPutaran`.
 * **Method:**
   * `add_goal(team)` (*Instance method*): Buat nambahin skor tim sekaligus nambahin jumlah putaran.

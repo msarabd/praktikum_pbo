@@ -85,6 +85,7 @@ class Match():
         self.__skorA = skorA
         self.__skorB = skorB
         self.__jumlahPutaran = skorA + skorB
+        self.cekPutaranUp5()
         Match.__jumlahMatch += 1
         
     @property
